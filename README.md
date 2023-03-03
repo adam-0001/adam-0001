@@ -26,6 +26,6 @@ I'm a high school senior with a curious mind and a passion for computer science 
 <!-- Center the following item: -->
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=adam-0001&label=Profile%20views&color=0091e6&style=flat" alt="adam-0001" />
+<img src="https://komarev.com/ghpvc/?username=adam-0001&label=Profile%20views&color=0091e6&style=for-the-badge" alt="adam-0001" />
 
 </p>
