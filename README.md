@@ -21,9 +21,10 @@ I'm a high school senior with a curious mind and a passion for computer science 
 
 ## Stats
 
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-0001&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/adam-0001)<br/>
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=adam-0001&count_private=true&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/adam-0001)<br/>
 
-<!-- Center the following item: -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-0001&layout=compact&theme=tokyonight)](https://github.com/adam-0001)
+
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=adam-0001&label=Profile%20views&color=0091e6&style=for-the-badge" alt="adam-0001" />
