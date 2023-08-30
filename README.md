@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a high school senior with a curious mind and a passion for computer science and business. I love using various technologies and programming languages to solve problems based on their specific requirements and circumstances (I'm quite flexible)!
+I'm a student at the University of Washington with interests in Computer Science and Business. I enjoy leveraging various technologies and programming languages to solve unique challenges adaptively!
 
 ## Technologies
 
