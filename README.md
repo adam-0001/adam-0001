@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm a student at the University of Washington with interests in Computer Science and Business. I enjoy leveraging various technologies and programming languages to solve unique challenges adaptively!
+I'm a product-focused builder studying Information Systems, Marketing & Data Science at UW Foster. I like taking messy real-world problems and shipping actual solutions - I've built everything from SaaS automation tools to a biometric CAPTCHA alternative. My work sits at the intersection of AI, product strategy, and full-stack development.
 
 ## Technologies
 
